@@ -16,3 +16,5 @@ Suggests:
     testthat
 Imports: 
     forcats
+URL: https://github.com/boweyism/packageBook
+BugReports: https://github.com/boweyism/packageBook/issues
